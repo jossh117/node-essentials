@@ -4,8 +4,8 @@
   "description": "API HTTP para administrar elementos
    de la base de datos de Tailwind Traders",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
+  // "dependencies": {},
+  // "devDependencies": {},
   "scripts": {
     "start": "node ./src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
